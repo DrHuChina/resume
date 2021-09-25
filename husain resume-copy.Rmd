@@ -1,0 +1,484 @@
+---
+title: "HUSAIN AHMAD'S resume"
+author: HUSAIN AHMAD
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![HUSAIN AHMAD](E:\R files and tempelates\degree pic.JPG){width=80%}
+
+Contact Info 
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> husain88@live.com
+- <i class="fa fa-twitter"></i> [DrHusainAhmad](https://twitter.com/DrHusainAhmad)
+- <i class="fa fa-phone"></i> 008618790623163
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+Experimental: HPLC (High Performance Liquid Chromatography)
+
+Spectrophotometric analysis of various plant physiological traits
+
+Some basics of PCR and molecular techniques 
+
+Using bio-assays to identify allelo-chemicals and their bio-active role
+
+Knowledge of fungal culturing techniques and inoculation.
+
+
+Writing: Scientific Writing 
+
+Computer: Working knowledge of Ms (Word, Excel, and Power Point), R Studio, Sigma plot 12.5, Image J, SPSS, Statistix 8.1, Origin Pro etc.
+
+Languages:
+
+Pashto (Native)
+
+Urdu (National) 
+
+English (Official)
+
+Chinese (普通话) HSK level 4. 
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+
+
+
+
+Main
+================================================================================
+
+HUSAIN AHMAD {#title}
+--------------------------------------------------------------------------------
+
+### Address: 
+Northwest A&F University, Yangling, Shaanxi, China.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Northwest A&F University
+
+Post Doctorate in Horticulture (Vegetable Science) 
+
+Yangling, Shaanxi, China
+
+2019.09 - 2021.08
+
+Research project: Tomato root adoptive measures under different soil textures and water stress
+
+### Northwest A&F University
+
+PhD in Horticulture (Vegetable Science)
+
+Yangling, Shaanxi, China
+
+2013.09 - 2018.06
+
+Research project: Effect of 28-Homobrassinolide and AMF on cucumber plants under abiotic stress
+
+### The University of Agriculture, Peshawar, Pakistan
+
+M.Sc (Hons) Agriculture (Horticulture)
+
+Peshawar, Pakistan
+
+2011-2012
+
+Research project: Effect of phosphorus and potassium on growth and yield of strawberry cv. Chandler
+
+### The University of Agriculture
+
+B.Sc (Hons) Agriculture (Horticulture) 
+
+Peshawar, Pakistan
+
+2007-2010
+
+Research project: Bud take success of plum cultivars budded on wild peach root stock
+
+### B.I.S.E Peshawar
+
+HSSC Pre-Medical
+
+Peshawar, Pakistan
+
+2004 - 2006
+
+### B.I.S.E Peshawar
+
+SSC Science
+
+Peshawar, Pakistan
+
+2003-2004
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Impact of water deficit on the development and senescence of tomato roots grown under various soil textures of Shaanxi, China
+
+BMC Plant Biology 21(241).
+
+N/A
+
+2021
+
+**Ahmad, H** and Jianming, Li
+
+### The Protective Role of 28-Homobrassinolide and Glomus versiforme in Cucumber to Withstand Saline Stress
+
+Plants 9(1), 42.
+
+N/A
+
+2020
+
+**Ahmad, H** Hayat, S., Ali, M., Liu, H., Chen, X., Li, J and Cheng, Z
+
+### The combination of arbuscular mycorrhizal fungi inoculation (Glomus versiforme) and 28-homobrassinolide (HBL) spraying intervals improves growth by enhancing photosynthesis, nutrient absorption and antioxidant system in cucumber (Cucumis sativus L) under salinity
+
+Ecology and Evolution. 8: 5724-5740.
+
+N/A
+
+2018
+
+**Ahmad, H** Hayat, S., Ali, M., Tao, L and Cheng, Z
+
+### Regulation of growth and physiological traits of cucumber (Cucumis sativus L.) through various levels of 28-homobrassinolide under salt stress conditions
+
+Canadian journal of plant science. 98(1): 132-140.
+
+N/A
+
+2017
+
+**Ahmad, H** Hayat, S., Ali, M., Ghani, M. I and Cheng, Z
+
+### Growth, Yield and Fruit Quality of Strawberry (Frageria ananasa Dutch) under Different Phosphorus Levels
+
+Research in Agriculture. 2(2): 19-28.
+
+N/A
+
+2017
+
+**Ahmad, H** Sajid, M., Hayat, S., Ullah, R., Ali, M., Jamal, A., Rahman, A., Awan, Z and Ahmad, J
+
+### Dose Optimization of Potassium (K) for Yield and Quality Increment of Strawberry (Fragaria ×ananassa Duch) Chandler
+
+American Journal of Experimental Agriculture. 4(12): 1526-1535.
+
+N/A
+
+2014
+
+**Ahmad, H** Sajid, M., Ullah, R., Hayat, S and Shahab, M
+
+### Co-inoculation of Arbuscular Mycorrhizal Fungi and the plant Rhizobacteria improve growth and photosynthesis in Tobacco under drought stress by Up-regulating Antioxidant and Mineral Nutrition Metabolism
+
+Microbial Ecology. 248(21): 01815-7.
+
+N/A
+
+2021
+
+Begum, N., Wang, L., **Ahmad, H**., Akhtar, K., Roy, R., khan, M.I and Zhao, T
+
+### Application of garlic allelochemicals improves growth and induces defense responses in eggplant (Solanum melongena) against Verticillium dahlia
+
+Ecotoxicology and Environmental Safety. 215(112132).
+
+N/A
+
+2021
+
+Ali, M., **Ahmad, H**., Hayat, S., Ghani, I.M., Amin, B., Atif, M.J., Wali, K and Zhihui, C
+
+### Mechanisms Regulating the Dynamics of Photosynthesis under Abiotic Stresses
+
+Frontiers in plant Science. 11:615942.
+
+N/A
+
+2020
+
+Muhammad, I., Shalmani, A., Ali, M., Yang, Q., **Ahmad, H** and Baili, F
+
+### Some Physiological and Biochemical Mechanisms during Seed-to-Seedling Transition in Tomato as Influenced by Garlic Allelochemicals
+
+Antioxidants 9, 235. 
+
+N/A
+
+2020
+
+Hayat, S., **Ahmad, H**., Nasir, M., Khan, M.N., Ali, M., Hayat, K., Khan, M.A., Khan, F., Ma, Y and Zhihui, C
+
+### Multifunctional role of brassinosteroid and its analogues in plants
+
+Plant Growth Regulation 92, 141-156. 
+
+N/A
+
+2020
+
+Hussain, M.A., Fahad, S., Sharif, R., Jan, M.F., Mujtaba, M., Ali, Q., Ahmad, A., **Ahmad, H**., Amin, N., Ajayo, B.S., Sun, C., Gul, L., Ahmad, I., Jiang, Z and Hou, J
+
+
+### Effect of the mode and time of gibberellic acid treatment on plant architecture and bulb structure in garlic (Allium sativum L.)
+
+Scientia Horticulturae. 257: 108723.
+
+N/A
+
+2019
+
+Hongjiu, L., Yumeng Z., Fan, Y., Xiaofang Qi., **Ahmad H**., Cuinan Wu and Zhihui C
+
+### Aqueous garlic extract as a plant bio stimulant enhances physiology, improves crop quality and metabolite abundance, and primes the defense responses of receiver plants
+
+Applied Sciences. 8, 1505. 
+
+N/A
+
+2018
+
+Hayat, S., **Ahmad, H**., Ali, M., Hayat, K., Khan, A. M and Cheng, Z
+
+### Priming of Solanum melongena L. Seeds Enhances Germination, Alters Antioxidant Enzymes, Modulates ROS, and Improves Early Seedling Growth: Indicating Aqueous Garlic Extract as Seed-Priming Bio-Stimulant for Eggplant Production
+
+Applied Sciences. 9(11), 2203. 
+
+N/A
+
+2019
+
+Ali, M., Hayat, S., **Ahmad, H**., Ghani, I.M., Amin, B., Atif, M.J and Zhihui, C
+
+### Aqueous garlic extract stimulates growth and antioxidant enzymes activity of tomato (Solanum lycopersicum)
+
+Scientia Horticulturae. 240: 139-146. 
+
+N/A
+
+2018
+
+Hayat, S., **Ahmad, H**., Ali, M., Kaili, R and Cheng, Z
+
+### Reactive oxygen species (ROS) as defenses against a broad range of plant fungal infections and case study on ROS employed by crops against Verticillium dahliae wilts
+
+Journal of Plant Interactions. 13:1, 353-363. 
+
+N/A
+
+2018
+
+Ali, M., Cheng, Z., **Ahmad, H** and Hayat, S
+
+### The Multifunctional Role of Chitosan in Horticultural Crops. A Review
+
+Molecules, 23, 872.
+
+N/A
+
+2018
+
+Sharif, R., Mujtaba, M., Ur Rahman, M., Shalmani, A., **Ahmad, H**., Anwar, T., Tianchan, D and Wang, X
+
+### Response of tomato growth to foliar spray and root drenching of aqueous garlic extract; a cocktail of antioxidative defenses, chlorophyll, carotenoid and soluble sugar contents
+
+Int. J. Agric. Biol. 20: 1251-1259.
+
+N/A
+
+2018
+
+Hayat, S., **Ahmad, H**., Ren, K., Ali, M and Zhihui, C
+
+### Garlic, from Remedy to Stimulant: Evaluation of Antifungal Potential Reveals Diversity in Phytoalexin Allicin Content among Garlic Cultivars; Allicin Containing Aqueous Garlic Extracts Trigger Antioxidants in Cucumber
+
+Front. Plant Sci. 7:1235.
+
+N/A
+
+2016
+
+Hayat S, Cheng Z, **Ahmad, H**., Ali, M., Chen, X and Wang, M
+
+### . Foliar spraying of aqueous garlic bulb extract stimulates growth and antioxidant enzyme activity in eggplant (Solanum melongena L.)
+
+Journal of Integrative Agriculture. 18(5): 1001-1013.
+
+N/A
+
+2018
+
+Ali, M., Cheng, Z., Hayat., **Ahmad, H** and Muhammad, I.G
+
+### The Influence of Plastic Mulching Materials and Sowing Dates on the Yield and Yield Components of Pea (Pisum sativum L.)
+
+Research in Agriculture. 3:2, 50-61.
+
+N/A
+
+2018
+
+Khan, N.M, Khan, A.A., Ayub, G., Hasseb, A., Ali, F., **Ahmad, H** and Ying, Z
+
+### Association of Gibberellic Acid (GA3) with Fruit Set and Fruit Drop of Sweet Orange
+
+Journal of Biology, Agriculture and Healthcare. 4(2): 54-59.
+
+N/A
+
+2014
+
+Ullah, R., Sajid, M., **Ahmad, H**., Luqman, M., Razaq, M., Nabi, G., Fahad, S and Rab, A
+
+### Gibberellic acid (GA3), an influential growth regulator for physiological disorder control and protracting the harvesting season of sweet orange
+
+American Journal of Experimental Agriculture. 4(11): 1355-1366.
+
+N/A
+
+2014
+
+Ullah, R., Sajid, M., Nabi, G., **Ahmad, H**., Rab, A., Faheem, A. K., Muhammad, S., Hizar, S., Fahad, S and Aziz, K
+
+### Influence of transplanting dates and population densities on the growth and yield of onion
+
+Pure Appl. Biol., 5(2): 345-354.
+
+N/A
+
+2016
+
+Ali, M., Rab, A., Ahmad, J., **Ahmad, H**., Hayat, S., Wali, K., Rashid, A., Ahmad, W and Muhammad, H
+
+### Influence of nursery sowing dates, seedling age and nitrogen levels on bulb quality and marketable yield of onion (Allium cepa L.)
+
+Pure Appl. Biol., 5(2): 223-233.
+
+N/A
+
+2016
+
+Muhammad, T., Ali, M., Hayat, S., **Ahmad, H** and Ahmad, S
+
+### The Influence of Different Media on Rooting of Litchi Plant through Air Layering
+
+New Media and Mass Communication.  47:12–15. 
+
+N/A
+
+2016
+
+Ali, M., **Ahmad, H**., Hayat, S and Ali, J
+
+### Effect of Nitrogenous Fertilizer on the Vegetative Growth and Yield attributes of Pea (Pisum sativum L.)
+
+Research in Agriculture. 4(1): 1-9. 
+
+N/A
+
+2019
+
+Azaz, A, K., Ayub, G., Haseeb, A., Khan, N, M., Ali, F and **Ahamd, H**
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Postdoc Fellow
+
+Northwest A & F University
+
+Yangling, China
+
+2019.09 - 2021.08
+
+::: concise
+- Worked on Tomato root adoptive measures under different soil textures and    water stress. 
+- helped master students in their research work.
+- Teaching assistant in Plant stress Physiology course at NWAFU. 
+:::
+
+
+Workshops, Seminars and Trainings {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Cultivation of Oyster Mushroom
+
+Training course attended at Nuclear Institute for food and Agriculture (NIFA).
+
+Peshawar, Pakistan
+
+2011
+
+### Work shop on Young Researchers Skill Development and Muslim Scientist Day Posters Exhibition
+
+Workshop attended at KP Agricultural University Peshawar, organized by National Academy of Young Scientist (NAYS) in collaboration with Pakistan Scientific and Technological Information Center.
+
+Peshawar, Pakistan
+
+2012
+
+### Application of Tissue Culture Techniques in Crop Improvement
+
+Training on tissue culture techniques, and precautions. 
+
+Peshawar, Pakistan
+
+2012
+
+### National Symposium on Frontiers in Nanotechnology
+
+Symposium attended at National University of Science and Technology (NUST).
+
+Islamabad, Pakistan
+
+2012
+
+### Climate Change: A Challenge for Agriculturists
+
+International Conference organized under HEC Sponsored Project “International linkages of Pakistani Universities with Foreign Universities".
+
+Peshawar, Pakistan
+
+2012
+
+### 3rd International Weed Science Conference
+
+International Conference attended at KP Agricultural University Peshawar, Organized by HEC and Weed Science Society of Pakistan
+
+Peshawar, Pakistan
+
+2011
+
+
+
+References {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### References will be provided on request. 
+
+
